@@ -1,0 +1,1 @@
+The application requires an .env file. For testing copy the template and replace the values with the values you prefer. The resulting file must be named `.env`.
